@@ -1,0 +1,89 @@
+.cabecalho{
+    display: flex;
+    justify-content: right;
+    margin-right: 500px;
+    font-size: 11px;
+}
+
+.cabecalho img{
+    width: 45px;
+    height: 40px;
+    padding: 0px 5px;
+}
+
+.cabecalho ul li{
+    list-style: none;
+    display: inline-block;
+    border: 1px solid #818994;
+    color: #818994;
+    padding: 5px 18px 4px;
+}
+
+.cabecalho-secundario{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 360px;
+}
+
+.cabecalho-secundario img{
+    width: 250px;
+    height: 150px;
+    color: #0088cc;
+}
+
+.cabecalho-secundario ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 12px 15px;
+    margin: 19px 0px 0px;
+    font-size: 22px;
+    color: #4a5f7a;
+    font-weight: 500;
+}
+
+.cabecalho-secundario-botao{
+    width: 71.72px;
+    height: 44px;
+    background: #9aa3b0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    border: #9aa3b0;
+}
+
+.cabecalho-secundario-botao img{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.redes-sociais{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 435px;
+}
+
+.redes-sociais img{
+    width: 20px;
+    height: 20px;
+}
+
+.redes-sociais ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 3.2px;
+    padding: 0px 0px 12px 15px;
+}
+
+.info{
+    width: 1025px;
+    height: 90px;
+    background-color: #3a5373;
+    text-align: center;
+    align-items: center;
+    margin-left: 380px;
+}
